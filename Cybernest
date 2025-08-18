@@ -29,15 +29,16 @@ os.system('espeak -a 300 "cheaking.  update.    "')
 #os.system("pkg install espeak")
 print("\033[1;92m{}>..𝐈𝐀𝐌 𝐓𝐄𝐑𝐌𝐔𝐗 𝐅𝐔𝐋𝐋 𝐒𝐄𝐓𝐔𝐏 𝐓𝐎𝐎𝐋𝐒...")
 os.system('espeak -a 300 " i am.    termux   full   setup   tools    "')
-print("\033[1;92m{}>..𝐈 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐌𝐃 RAIYAN HOQUE...")
-os.system('espeak -a 300 " i.     made.    by.    md.     raiyan.   hoque.    "')
+print("\033[1;92m{}>..𝐈 𝐌𝐀𝐃𝐄 𝐁𝐘 M͎U͎J͎A͎H͎I͎D͎...")
+os.system('espeak -a 300 " i.     made.    by.    mujahid.    "')
 
 #os.system("git pull")
 #os.system("pip install bs4")
 #os.system("pip install requests")
 #os.system("pip install mechanize")
 
-
+print("\033[1;92m{}>..░M░U░J░A░H░I░D░..{√}\033[1;30m")
+os.system('espeak -a 300 "𝘾𝙮𝙗𝙚𝙧. 𝙋𝙧𝙤𝙩𝙚𝙘𝙩𝙤𝙧."')
 print("\033[1;92m{}>..𝐑𝐎𝐁𝐎𝐓 𝐈𝐍𝐒𝐓𝐀𝐋𝐋 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐄..{√}\033[1;30m")
 os.system('espeak -a 300 "Robot.   install.   complete"')
 print("\033[1;92m{}>..𝐏𝐋𝐄𝐀𝐒𝐄 𝐖𝐀𝐈𝐓 𝐅𝐎𝐑 𝐋𝐎𝐀𝐃𝐈𝐍𝐆.....\033[1;30m")
@@ -59,8 +60,12 @@ logo = ("""
 | |/ |/ / /___/ /___/ /___/ /___/ /_/ / /  / / /___   
 |__/|__/_____/_____/_____/\____/\____/_/  /_/_____/   
                                                      
-    
-Cyber King
+	👑𝘾𝙮𝙗𝙚𝙧 𝙋𝙧𝙤𝙩𝙚𝙘𝙩𝙤𝙧👑
+
+		I̾'̾m̾ ̾N̾o̾t̾ ̾C̾y̾b̾e̾r̾ ̾K̾i̾n̾g̾
+̾	 B̾u̾t̾ ̾I̾'̾m̾ ̾C̾y̾b̾e̾r̾ ̾e̾f̾f̾i̾c̾i̾e̾n̾t̾ 🛡️
+
+░I░'░m░
      
 \033[1;37m▗
 \033[1;35m▗▖  ▗▖▗▖ ▗▖   ▗▖ ▗▄▖ ▗▖ ▗▖▗▄▄▄▖▗▄▄▄  
@@ -86,8 +91,8 @@ menu = ("""
 
 def lock():
 	option = input("""
-{⚜}⚜️ ENTER PASSWORD: """)
-	if option in ['mujahid']:
+\033[1;32m{⚜}⚜️ 𝕄𝕌𝕁𝔸ℍ𝕀𝔻 𝔾𝕆𝕆𝔻 & 𝔹𝔼𝔻: """)
+	if option in ['good']:
 		os.system('clear')
 		moon()
 	else:
